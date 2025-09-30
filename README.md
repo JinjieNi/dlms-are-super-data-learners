@@ -27,7 +27,7 @@
 ```
 @misc{ni2025difflm,
 title={Diffusion Language Models are Super Data Learners},
-author={Jinjie Ni and the team},
+author={Ni, Jinjie and the team},
 year={2025},
 howpublished={\url{https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac}},
 note={Notion Blog},
