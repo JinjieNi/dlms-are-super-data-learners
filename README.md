@@ -10,7 +10,7 @@
 
 
 # News
-[2025-10-03] The full paper is out at [here]()! We did extensive ablations and scaled-up runs. 
+[2025-10-03] The full paper is out! Check it out [here](resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf)! We did extensive ablations and scaled-up runs. 
 
 
 # Highlights
