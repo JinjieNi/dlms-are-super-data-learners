@@ -3,9 +3,15 @@
 <!-- TITLE -->
 # **Diffusion Language Models are Super Data Learners**
 
+[![Static Badge](https://img.shields.io/badge/Paper-2025--10--03-red)](resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf)
 [![Static Badge](https://img.shields.io/badge/Blog-2025--08--09-darkcyan)](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=tweet)](https://x.com/NiJinjie/status/1954177095435014533)
 </div>
+
+
+# News
+[2025-10-03] The full paper is out! We did extensive ablations and scaled-up runs. 
+
 
 # Highlights
 - We pre-trained DLMs and AR models from scratch for up to **8B parameters** and **480B tokens**. DLMs demonstrate > **3x** greater data potential compared to autoregressive (AR) models. Notably, a 1B-parameter masked diffusion model achieves > **56%** accuracy on HellaSwag and > **33%** on MMLU using only **1B** tokens, without any special tricks, just by repeating standard pre-training data. Note that more repetitions could further improve its performance, as **no signs of diminishing returns** were observed.
