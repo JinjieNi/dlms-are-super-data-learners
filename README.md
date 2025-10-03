@@ -10,7 +10,7 @@
 
 
 # News
-[2025-10-03] The full paper is out! We did extensive ablations and scaled-up runs. 
+[2025-10-03] The full paper is out at [here]()! We did extensive ablations and scaled-up runs. 
 
 
 # Highlights
