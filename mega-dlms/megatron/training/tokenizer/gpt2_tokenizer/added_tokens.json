@@ -1,0 +1,14 @@
+{
+  "<|extra_special_token_0>": 50259,
+  "<|extra_special_token_1>": 50260,
+  "<|extra_special_token_2>": 50261,
+  "<|extra_special_token_3>": 50262,
+  "<|extra_special_token_4>": 50263,
+  "<|extra_special_token_5>": 50264,
+  "<|extra_special_token_6>": 50265,
+  "<|extra_special_token_7>": 50266,
+  "<|extra_special_token_8>": 50267,
+  "<|extra_special_token_9>": 50268,
+  "<|mask_token|>": 50257,
+  "<|pad_token|>": 50258
+}

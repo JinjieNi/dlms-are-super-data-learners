@@ -1,0 +1,6 @@
+{
+  "do_sample": false,
+  "eos_token_id": 0,
+  "use_cache": true,
+  "transformers_version": "4.48.2"
+}

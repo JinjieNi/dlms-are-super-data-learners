@@ -1,0 +1,14 @@
+{
+  "<|extra_special_token_0>": 32002,
+  "<|extra_special_token_1>": 32003,
+  "<|extra_special_token_2>": 32004,
+  "<|extra_special_token_3>": 32005,
+  "<|extra_special_token_4>": 32006,
+  "<|extra_special_token_5>": 32007,
+  "<|extra_special_token_6>": 32008,
+  "<|extra_special_token_7>": 32009,
+  "<|extra_special_token_8>": 32010,
+  "<|extra_special_token_9>": 32011,
+  "<|mask_token|>": 32000,
+  "<|pad_token|>": 32001
+}

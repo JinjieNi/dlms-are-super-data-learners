@@ -1,0 +1,32 @@
+{
+  "architectures": [
+    "DiffLM"
+  ],
+  "auto_map": {
+    "AutoConfig": "configuration_dlm.DLMConfig",
+    "AutoModelForCausalLM": "modeling_dlm.DiffLM"
+  },
+  "attention_dropout": 0.0,
+  "eos_token_id": 0,
+  "hidden_act": "silu",
+  "hidden_size": 1792,
+  "initializer_range": 0.02,
+  "intermediate_size": 4736,
+  "max_position_embeddings": 2048,
+  "max_window_layers": 26,
+  "num_attention_heads": 14,
+  "num_hidden_layers": 26,
+  "num_key_value_heads": 14,
+  "rms_norm_eps": 1e-06,
+  "rope_theta": 10000.0,
+  "sliding_window": 2048,
+  "tie_word_embeddings": true,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.40.1",
+  "use_cache": true,
+  "use_mrope": false,
+  "use_sliding_window": false,
+  "vocab_size": 50269,
+  "mask_token_id": 50257,
+  "attn_mask_type": "bidirectional"
+}
