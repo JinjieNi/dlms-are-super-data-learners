@@ -7,6 +7,12 @@
 **Diffusion Language Models are Super Data Learners**
 ===========================
 
+[Jinjie Ni†](https://jinjieni.github.io/), [Qian Liu](https://scholar.google.com/citations?user=bcbeUo0AAAAJ&hl=en), [Longxu Dou](https://longxudou.github.io/), [Chao Du](https://duchao0726.github.io/), [Zili Wang](https://commencement.github.io/), [Hang Yan](https://scholar.google.com/citations?user=yigHzW8AAAAJ&hl=en), [Tianyu Pang](https://p2333.github.io/), [Michael Qizhe Shieh](https://michaelshieh.com/)
+
+†Correspondence to: Jinjie Ni \<jinjieni@nus.edu.sg\>
+
+---
+
 <h4>Witness the first crossover where diffusion beats AR.</h4>
 
 [![Static Badge](https://img.shields.io/badge/Paper-2025--10--03-red)](https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf)
@@ -14,6 +20,7 @@
 [![Static Badge](https://img.shields.io/badge/Resources-ckpts--logs-green)](#resources)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=tweet1)](https://x.com/NiJinjie/status/1954177095435014533)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=tweet2)](https://x.com/NiJinjie/status/1974113126905000242)
+
 </div>
 
 
@@ -74,15 +81,15 @@ We link the related resources below:
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar_2b)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_model_size/1b_96e_ar_2b)] 2B AR
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_dlm_4b)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_model_size/1b_96e_difflm_4b)] 4B DLM
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar_4b)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_model_size/1b_96e_ar_4b)] 4B AR
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_model_size/1b_96e_difflm_8b)] 8B DLM
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_model_size/1b_96e_ar_8b)] 8B AR
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_dlm_8b)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_model_size/1b_96e_difflm_8b)] 8B DLM
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar_8b)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_model_size/1b_96e_ar_8b)] 8B AR
 - Diffusion vs. AR with various model sparsities
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_dlm)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_difflm_1b1a)] 1B DLM
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_ar_1b1a)] 1B AR
     - [[ckpt](https://huggingface.co/datasets/MDGA-2/openmoe2_ckpts/tree/main/arch_exps/8b1a_1b96e_tc_dlm)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_difflm_8b1a)] 8B1A DLM
     - [[ckpt](https://huggingface.co/datasets/MDGA-2/openmoe2_ckpts/tree/main/arch_exps/8b1a_1b96e_tc_ar)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_ar_8b1a)] 8B1A AR
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_difflm_8b8a)] 8B DLM
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_ar_8b8a)] 8B AR
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_dlm_8b)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_difflm_8b8a)] 8B DLM
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar_8b)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/vary_sparsity/1b_96e_ar_8b8a)] 8B AR
 - Input Masking
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/mask_input/1b_96e_ar_0.0)] 0.0
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar_1b_mask_0.1)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/mask_input/1b_96e_ar_0.1)] 0.1
@@ -93,18 +100,18 @@ We link the related resources below:
 - Dropout Ablations
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_96e_ar)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.0)] 0.0
     - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/ar_dropout_0.1)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.1)] 0.1
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.2)] 0.2
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.3)] 0.3
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.4)] 0.4
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.5)] 0.5
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.7)] 0.7
-    - [[ckpt]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.9)] 0.9
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/ar_dropout_0.2)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.2)] 0.2
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/ar_dropout_0.3)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.3)] 0.3
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/ar_dropout_0.4)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.4)] 0.4
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/ar_dropout_0.5)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.5)] 0.5
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/ar_dropout_0.7)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.7)] 0.7
+    - [[ckpt](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/ar_dropout_0.9)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/dropout/0b5_192e_ar_0.9)] 0.9
 - Coder Scaling
     - [[constant ckpts (HF)](https://huggingface.co/datasets/jinjieni/l_ckpt/tree/main/difflm/converted_checkpoints/coder_scaling_ar_2b_stage1_1)][[anneal ckpts (HF)](https://huggingface.co/datasets/jinjieni/l_ckpt/tree/main/difflm/converted_checkpoints/coder_scaling_ar_2b_stage2_from_iter_319456_1)][[constant log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/coder_scaling/10b_144_dlm_constant)][[anneal log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/coder_scaling/10b_10_dlm_anneal)] 1.7B DLM
     - [[constant ckpts (HF)](https://huggingface.co/datasets/jinjieni/l_ckpt/tree/main/difflm/converted_checkpoints/coder_scaling_dlm_2b_stage1_1)][[anneal ckpts (HF)](https://huggingface.co/datasets/jinjieni/l_ckpt/tree/main/difflm/converted_checkpoints/coder_scaling_dlm_2b_stage2_from_iter_319456_1)][[constant log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/coder_scaling/10b_144_ar_constant)][[anneal log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/coder_scaling/10b_10_ar_anneal)] 1.7B AR
-- [[ckpt (HF)]()][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/scaled_runs/1b_480e_difflm_1b)] 1B DLM 480 epochs
+- [[ckpt (HF)](https://huggingface.co/datasets/MDGA-1/super_data_learners_ckpts/tree/main/1b_480e_dlm)][[log](https://huggingface.co/datasets/MDGA-1/super_data_learners_logs/tree/main/scaled_runs/1b_480e_difflm_1b)] 1B DLM 480 epochs
 
-You can refer to [this](https://github.com/JinjieNi/MegaDLMs/blob/main/examples/dlm_generation/dlm_inference.py) script to generate with the huggingface checkpoints. Due to the large amount, most small checkpoints above are still in megatron formats. You may refer to [this](https://github.com/JinjieNi/MegaDLMs/blob/main/examples/dlm_training/ckpt_conversion.sh) script to convert them (need to tweak the conversion scripts).
+You can refer to [this](https://github.com/JinjieNi/MegaDLMs/blob/main/examples/dlm_generation/dlm_inference.py) script to inference with the huggingface checkpoints. Due to the large amount, most small checkpoints above are still in megatron formats. You may refer to [this](https://github.com/JinjieNi/MegaDLMs/blob/main/examples/dlm_training/ckpt_conversion.sh) script to convert them (need to tweak the conversion scripts).
 
 <br>
 
