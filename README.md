@@ -15,7 +15,7 @@
 
 <h4>Witness the first crossover where diffusion beats AR.</h4>
 
-[![Static Badge](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2511.03276)
+[![Static Badge](https://img.shields.io/badge/Paper-arXiv-darkred)](https://arxiv.org/abs/2511.03276)
 [![Static Badge](https://img.shields.io/badge/Blog-2025--08--09-darkcyan)](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 [![Static Badge](https://img.shields.io/badge/Infra-training--backend-black)](https://github.com/JinjieNi/MegaDLMs)
 [![Static Badge](https://img.shields.io/badge/Resources-ckpts--logs-green)](#resources)
