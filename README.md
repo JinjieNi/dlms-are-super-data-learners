@@ -17,7 +17,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Paper-arXiv-darkred)](https://arxiv.org/abs/2511.03276)
 [![Static Badge](https://img.shields.io/badge/Blog-2025--08--09-darkcyan)](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
-[![Static Badge](https://img.shields.io/badge/Infra-training--backend-black)](https://github.com/JinjieNi/MegaDLMs)
+[![Static Badge](https://img.shields.io/badge/Infra-training--backend-darkorange)](https://github.com/JinjieNi/MegaDLMs)
 [![Static Badge](https://img.shields.io/badge/Resources-ckpts--logs-green)](#resources)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=tweet1)](https://x.com/NiJinjie/status/1954177095435014533)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=tweet2)](https://x.com/NiJinjie/status/1974113126905000242)
