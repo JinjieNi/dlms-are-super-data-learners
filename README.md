@@ -15,7 +15,7 @@
 
 <h4>Witness the first crossover where diffusion beats AR.</h4>
 
-[![Static Badge](https://img.shields.io/badge/Paper-2025--10--03-red)](https://jinjieni.github.io/dlms-are-super-data-learners/resources/pdf/Diffusion_Language_Models_are_Super_Data_Learners.pdf)
+[![Static Badge](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2511.03276)
 [![Static Badge](https://img.shields.io/badge/Blog-2025--08--09-darkcyan)](https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac)
 [![Static Badge](https://img.shields.io/badge/Resources-ckpts--logs-green)](#resources)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=tweet1)](https://x.com/NiJinjie/status/1954177095435014533)
@@ -117,11 +117,10 @@ You can refer to [this](https://github.com/JinjieNi/MegaDLMs/blob/main/examples/
 
 # Citation
 ```
-@misc{ni2025difflm,
-title={Diffusion Language Models are Super Data Learners},
-author={Ni, Jinjie and the team},
-year={2025},
-howpublished={\url{https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac}},
-note={Notion Blog},
+@article{ni2025superdatalearner,
+  title={Diffusion Language Models are Super Data Learners},
+  author={Ni, Jinjie and Liu, Qian and Dou, Longxu and Du, Chao and Wang, Zili and Yan, Hang and Pang, Tianyu and Shieh, Michael Qizhe},
+  journal={arXiv preprint arXiv:2511.03276},
+  year={2025}
 }
 ```
